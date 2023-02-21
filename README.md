@@ -23,3 +23,8 @@ To run this project locally, you can clone this repository and open the login.ht
 I welcome contributions to this project. If you notice any bugs, issues, or have any suggestions for improvement, feel free to open an issue or submit a pull request.
 ## Credits
 This project was developed by Vijaysingh Maurya  as part of    sync-intern .
+
+## ScreenShots
+
+![Login_Authentic](https://user-images.githubusercontent.com/52886042/220427114-839a242b-f944-4c79-b19d-8e919307e205.png)
+![Registration](https://user-images.githubusercontent.com/52886042/220427266-af570033-3ea3-4579-8ffd-32765cfb5558.png)
